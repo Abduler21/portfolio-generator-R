@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-generator-r",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abduler21/portfolio-generator-R.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abduler21/portfolio-generator-R/issues"
+  },
+  "homepage": "https://github.com/Abduler21/portfolio-generator-R#readme",
+  "dependencies": {
+    "inquirer": "^8.2.1"
+  }
+}
